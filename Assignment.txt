@@ -1,0 +1,7 @@
+Assignment
+do the read all
+do the delete file
+do the read one file
+N/B: do all the other routes we created
+
+submission:Next week tuesday by 12am
